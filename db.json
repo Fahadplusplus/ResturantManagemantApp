@@ -11,6 +11,128 @@
       "name": "hassan",
       "email": "hassan@gmail.com",
       "password": "12345"
+    },
+    {
+      "id": "19e3",
+      "name": "khan",
+      "email": "khan@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "6d89",
+      "name": "jskj",
+      "email": "kjask@gmai.com",
+      "password": "12345"
+    },
+    {
+      "id": "2d22",
+      "name": "kjask",
+      "email": "baksj@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8ae7",
+      "name": "jhvasjd",
+      "email": "hjvasjvh2@gmai.com",
+      "password": "45678"
+    },
+    {
+      "id": "f0f7",
+      "name": "gajshbb",
+      "email": "hgasj@gmail.com",
+      "password": "56235"
+    },
+    {
+      "id": "e2b9",
+      "name": "ajbsi",
+      "email": "jbakjs@gmai.com",
+      "password": "45123"
+    },
+    {
+      "id": "9d6a",
+      "name": "lknskdn",
+      "email": "knldk@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "f884",
+      "name": "fahadnasir",
+      "email": "nasir@gmai.com",
+      "password": "15963"
+    },
+    {
+      "id": "2175",
+      "name": "ajsbdkj",
+      "email": "kjbsakj@gmail.com",
+      "password": "78945"
+    },
+    {
+      "id": "cf95",
+      "name": "Fahadddd",
+      "email": "nasirrrrrrfahad420@gmail.com",
+      "pass": 12345634
+    }
+  ],
+  "resturant": [
+    {
+      "id": "98ar",
+      "name": "MAD",
+      "location": "Town Ship",
+      "Contact": 12345679
+    },
+    {
+      "id": "7e44",
+      "name": "KFC",
+      "location": "Johar Towwwn",
+      "Contact": 1234567
+    },
+    {
+      "id": "55ad",
+      "name": "Karachi Foods",
+      "location": "UMT Road",
+      "Contact": "1234567"
+    },
+    {
+      "id": "ad62",
+      "name": "ksll",
+      "location": "klmaslk",
+      "phone": ""
+    },
+    {
+      "id": "93ea",
+      "name": "sfsa",
+      "location": "xcs",
+      "phone": ""
+    },
+    {
+      "id": "7b33",
+      "name": "dfdsf",
+      "location": "zzdcsdv",
+      "phone": ""
+    },
+    {
+      "id": "a3ad",
+      "name": "",
+      "location": "",
+      "phone": ""
+    },
+    {
+      "id": "f9db",
+      "name": "",
+      "location": "",
+      "phone": ""
+    },
+    {
+      "id": "8376",
+      "name": "",
+      "location": "",
+      "phone": ""
+    },
+    {
+      "id": "8590",
+      "name": "",
+      "location": "",
+      "phone": ""
     }
   ]
 }
