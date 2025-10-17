@@ -1,11 +1,16 @@
 {
   "users": [
-    
     {
-      "id": "c280",
-      "name": "Fahad nasir",
-      "email": "nasirfahad420@gmail.com",
-      "pass": 123456
+      "id": "ee0a",
+      "name": "fahad",
+      "email": "fahad@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3623",
+      "name": "hassan",
+      "email": "hassan@gmail.com",
+      "password": "12345"
     }
   ]
 }
