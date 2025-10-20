@@ -75,64 +75,28 @@
   ],
   "resturant": [
     {
-      "id": "98ar",
       "name": "MAD",
       "location": "Town Ship",
-      "Contact": 12345679
+      "phone": 123456798999,
+      "id": "98ar"
     },
     {
-      "id": "7e44",
       "name": "KFC",
       "location": "Johar Towwwn",
-      "Contact": 1234567
+      "phone": 12345675987,
+      "id": "7e44"
     },
     {
       "id": "55ad",
       "name": "Karachi Foods",
       "location": "UMT Road",
-      "Contact": "1234567"
+      "phone": "1234567"
     },
     {
-      "id": "ad62",
-      "name": "ksll",
-      "location": "klmaslk",
-      "phone": ""
-    },
-    {
-      "id": "93ea",
-      "name": "sfsa",
-      "location": "xcs",
-      "phone": ""
-    },
-    {
-      "id": "7b33",
-      "name": "dfdsf",
-      "location": "zzdcsdv",
-      "phone": ""
-    },
-    {
-      "id": "a3ad",
-      "name": "",
-      "location": "",
-      "phone": ""
-    },
-    {
-      "id": "f9db",
-      "name": "",
-      "location": "",
-      "phone": ""
-    },
-    {
-      "id": "8376",
-      "name": "",
-      "location": "",
-      "phone": ""
-    },
-    {
-      "id": "8590",
-      "name": "",
-      "location": "",
-      "phone": ""
+      "id": "6cd9",
+      "name": "zingo",
+      "location": "cantt",
+      "phone": 30949555687
     }
   ]
 }
